@@ -7,4 +7,6 @@
 
 - [Panino Vegetariano](panini/vegetariano.md)
 
+## Primi:
+
 Paninoteca Padovana
