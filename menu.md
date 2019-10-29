@@ -9,4 +9,6 @@
 
 ## Primi:
 
+- [Olive Ascolane](fritti/olive_ascolane.md)
+
 Paninoteca Padovana
