@@ -1,8 +1,10 @@
 1052741 Serban Eduard George
 # Menu
 
-- [Panino Primavera](primavera.md)
+## Panini:
 
-- [Panino Vegetariano](vegetariano.md)
+- [Panino Primavera](panini/primavera.md)
+
+- [Panino Vegetariano](panini/vegetariano.md)
 
 Paninoteca Padovana
